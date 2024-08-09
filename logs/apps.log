@@ -1,0 +1,27 @@
+2024-08-09 09:23:07,837[INFO][com.example.appdevelopment.AppdevelopmentApplication][restartedMain]Starting AppdevelopmentApplication using Java 21.0.2 with PID 4656 (E:\appdevelopment\target\classes started by USER in E:\appdevelopment)
+2024-08-09 09:23:07,910[INFO][com.example.appdevelopment.AppdevelopmentApplication][restartedMain]No active profile set, falling back to 1 default profile: "default"
+2024-08-09 09:23:08,239[INFO][org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor][restartedMain]Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-08-09 09:23:08,247[INFO][org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor][restartedMain]For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-08-09 09:23:12,230[INFO][org.springframework.data.repository.config.RepositoryConfigurationDelegate][restartedMain]Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-09 09:23:12,687[INFO][org.springframework.data.repository.config.RepositoryConfigurationDelegate][restartedMain]Finished Spring Data repository scanning in 400 ms. Found 9 JPA repository interfaces.
+2024-08-09 09:23:16,818[INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer][restartedMain]Tomcat initialized with port 8080 (http)
+2024-08-09 09:23:16,869[INFO][org.apache.catalina.core.StandardService][restartedMain]Starting service [Tomcat]
+2024-08-09 09:23:16,874[INFO][org.apache.catalina.core.StandardEngine][restartedMain]Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-09 09:23:17,100[INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]][restartedMain]Initializing Spring embedded WebApplicationContext
+2024-08-09 09:23:17,102[INFO][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext][restartedMain]Root WebApplicationContext: initialization completed in 8855 ms
+2024-08-09 09:23:19,390[INFO][org.hibernate.jpa.internal.util.LogHelper][restartedMain]HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-09 09:23:20,970[INFO][org.hibernate.Version][restartedMain]HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-09 09:23:21,165[INFO][org.hibernate.cache.internal.RegionFactoryInitiator][restartedMain]HHH000026: Second-level cache disabled
+2024-08-09 09:23:23,251[INFO][org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo][restartedMain]No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-09 09:23:23,519[INFO][com.zaxxer.hikari.HikariDataSource][restartedMain]HikariPool-1 - Starting...
+2024-08-09 09:23:26,154[INFO][com.zaxxer.hikari.pool.HikariPool][restartedMain]HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@140edc2e
+2024-08-09 09:23:26,175[INFO][com.zaxxer.hikari.HikariDataSource][restartedMain]HikariPool-1 - Start completed.
+2024-08-09 09:23:30,876[INFO][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain]HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-09 09:23:31,147[INFO][org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean][restartedMain]Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-09 09:23:34,375[WARN][org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration][restartedMain]spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-08-09 09:23:36,837[INFO][org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer][restartedMain]LiveReload server is running on port 35729
+2024-08-09 09:23:37,196[INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer][restartedMain]Tomcat started on port 8080 (http) with context path '/'
+2024-08-09 09:23:37,230[INFO][com.example.appdevelopment.AppdevelopmentApplication][restartedMain]Started AppdevelopmentApplication in 31.466 seconds (process running for 34.375)
+2024-08-09 09:23:56,588[INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]][http-nio-8080-exec-2]Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-09 09:23:56,591[INFO][org.springframework.web.servlet.DispatcherServlet][http-nio-8080-exec-2]Initializing Servlet 'dispatcherServlet'
+2024-08-09 09:23:56,595[INFO][org.springframework.web.servlet.DispatcherServlet][http-nio-8080-exec-2]Completed initialization in 1 ms
